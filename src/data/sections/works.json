@@ -1,37 +1,51 @@
 [
   {
     "id": 1,
-
-    "secTex": "Innovation and Crafts",
-    "image": "/img/portfolio/metro/S1.jpg",
+    "title": "Titulo",
+    "secTex": "Subtitulo",
+    "image": "/img/portfolio/metro/1.png",
     "slug": "/project-details2/project-details2-dark"
   },
   {
     "id": 2,
-
-    "secTex": "Inspiring new space",
-    "image": "/img/portfolio/metro/S2.jpg",
+    "title": "Titulo",
+    "secTex": "Subtitulo",
+    "image": "/img/portfolio/metro/2.png",
     "slug": "/project-details2/project-details2-dark"
   },
   {
     "id": 3,
-
-    "secTex": "Natural plus modern",
-    "image": "/img/portfolio/metro/S3.jpg",
+    "title": "Titulo",
+    "secTex": "Subtitulo",
+    "image": "/img/portfolio/metro/3.png",
     "slug": "/project-details2/project-details2-dark"
   },
   {
     "id": 4,
-
-    "secTex": "Innovation and Crafts",
-    "image": "/img/portfolio/metro/S4.jpg",
+    "title": "Titulo",
+    "secTex": "Subtitulo",
+    "image": "/img/portfolio/metro/4.png",
     "slug": "/project-details2/project-details2-dark"
   },
   {
     "id": 5,
-
-    "secTex": "Natural plus modern",
-    "image": "/img/portfolio/metro/S5.jpg",
+    "title": "Titulo",
+    "secTex": "Subtitulo",
+    "image": "/img/portfolio/metro/5.png",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 6,
+    "title": "Titulo",
+    "secTex": "Subtitulo",
+    "image": "/img/portfolio/metro/6.png",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 7,
+    "title": "Titulo",
+    "secTex": "Subtitulo",
+    "image": "/img/portfolio/metro/7.png",
     "slug": "/project-details2/project-details2-dark"
   }
 ]

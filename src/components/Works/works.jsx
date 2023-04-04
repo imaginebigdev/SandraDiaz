@@ -81,6 +81,10 @@ const Works = () => {
                             backgroundImage: `url(${item.image})`,
                           }}
                         />
+                        <div className="cont">
+                          <h6 className="color-font">{item.title}</h6>
+                          <h4>{item.secTex}</h4>
+                        </div>
                       </div>
                     </SwiperSlide>
                   ))}
