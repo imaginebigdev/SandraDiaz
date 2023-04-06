@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Titulo",
-    "secTex": "Subtitulo",
+    "title": "",
+    "secTex": "Se hizo entrega de Semillas Pro Huerta a los vecinos 👥️ se seguirá entregando 💪",
     "image": "/img/portfolio/metro/1.png",
     "slug": "/project-details2/project-details2-dark"
   },
   {
     "id": 2,
-    "title": "Titulo",
-    "secTex": "Subtitulo",
+    "title": "",
+    "secTex": "Entrevista a los Beneficiarios del Programa Vida Digna💪faltan varias 🙂 se sigue trabajando 💪",
     "image": "/img/portfolio/metro/2.png",
     "slug": "/project-details2/project-details2-dark"
   },
@@ -22,29 +22,29 @@
   },
   {
     "id": 4,
-    "title": "Titulo",
-    "secTex": "Subtitulo",
+    "title": "",
+    "secTex": "Entrega de Certificados de la Jornada de Capacitación y Entrenamiento en Socorrismo y Salvataje Acuático👏💪",
     "image": "/img/portfolio/metro/4.png",
     "slug": "/project-details2/project-details2-dark"
   },
   {
     "id": 5,
-    "title": "Titulo",
-    "secTex": "Subtitulo",
+    "title": "",
+    "secTex": "Entrega de Certificados de la Jornada de Capacitación y Entrenamiento en Socorrismo y Salvataje Acuático👏💪",
     "image": "/img/portfolio/metro/5.png",
     "slug": "/project-details2/project-details2-dark"
   },
   {
     "id": 6,
-    "title": "Titulo",
-    "secTex": "Subtitulo",
+    "title": "Sábado",
+    "secTex": "Entrega de un botiquín de primeros auxilios para Los Niños Exploradores 👨‍🌾 día de distintas actividades y Cine",
     "image": "/img/portfolio/metro/6.png",
     "slug": "/project-details2/project-details2-dark"
   },
   {
     "id": 7,
-    "title": "Titulo",
-    "secTex": "Subtitulo",
+    "title": "Feria de la Familia",
+    "secTex": "GRACIAS A TODOS LOS ARTISTAS 🙌 Artesanos, y al público por acompañar 😊🥳",
     "image": "/img/portfolio/metro/7.png",
     "slug": "/project-details2/project-details2-dark"
   }
