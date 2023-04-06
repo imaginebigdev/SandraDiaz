@@ -1931,7 +1931,7 @@ body {
 
 .nav-scroll {
   background: #858585;
-  border-color: #5e5e5e;
+  border-color: #5e5e5e00;
   padding: 0;
   position: fixed;
   top: -80px;
@@ -8090,7 +8090,7 @@ footer .item .logo {
 }
 
 footer .item .logo img {
-  width: 50px;
+  width: 200px;
 }
 
 footer .item .social a {

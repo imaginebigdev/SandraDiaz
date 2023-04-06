@@ -40,10 +40,10 @@ const ContactArch = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_j5tuc1h",
-        "template_4dhab27",
+        "service_b1iehaj",
+        "template_4r0vr5f",
         e.target,
-        "5EGmrFZA6SYRpG82_"
+        "79IlDKtm0gTelc8ZY"
       )
       .then((res) => {
         console.log(res),
