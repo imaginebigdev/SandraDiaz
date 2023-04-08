@@ -41,7 +41,7 @@ const Footer = ({ hideBGCOLOR }) => {
               </div>
               <div className="social">
                 <a
-                  href="https://www.facebook.com/sandradiazvdp"
+                  href="https://www.facebook.com/sandradiazporvilladelprado/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -55,7 +55,7 @@ const Footer = ({ hideBGCOLOR }) => {
                 >
                   <i className="fab fa-instagram"></i>
                 </a>
-                <a href="#0">
+                <a href="https://www.youtube.com/@SandraDiazVDP">
                   <i className="fab fa-youtube"></i>
                 </a>
               </div>
