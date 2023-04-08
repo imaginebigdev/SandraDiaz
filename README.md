@@ -17,3 +17,5 @@ $ npm run dev
 ## Deploy
 
 > **https://sandra-diaz.vercel.app/**
+
+> **https://www.sandradiaz.ar/**
