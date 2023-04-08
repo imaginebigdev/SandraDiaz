@@ -1,51 +1,42 @@
 [
   {
     "id": 1,
-    "title": "",
-    "secTex": "Se hizo entrega de Semillas Pro Huerta a los vecinos 👥️ se seguirá entregando 💪",
+    "title": "#VilladelPrado",
+    "secTex": "Les deseo unas Felices Pascuas junto a sus familias.",
     "image": "/img/portfolio/metro/1.png",
-    "slug": "/project-details2/project-details2-dark"
+    "slug": "/project-details2/project-details2-dark",
+    "link": "https://www.instagram.com/p/CqvC3SXuI1C/"
   },
   {
     "id": 2,
     "title": "",
-    "secTex": "Entrevista a los Beneficiarios del Programa Vida Digna💪faltan varias 🙂 se sigue trabajando 💪",
+    "secTex": "A partir de mañana podrán tener acceso a los formularios de inscripción de cada una de las actividades deportivas! 👏💪",
     "image": "/img/portfolio/metro/2.png",
-    "slug": "/project-details2/project-details2-dark"
+    "slug": "/project-details2/project-details2-dark",
+    "link": "https://www.instagram.com/p/CqotoXHOJfT/"
   },
   {
     "id": 3,
-    "title": "Titulo",
-    "secTex": "Subtitulo",
+    "title": "Recuerdos",
+    "secTex": "faltan más cuadros 🙂volveremos a pintar🎨☺️",
     "image": "/img/portfolio/metro/3.png",
-    "slug": "/project-details2/project-details2-dark"
+    "slug": "/project-details2/project-details2-dark",
+    "link": "https://www.instagram.com/p/CqjkJRruFD5/"
   },
   {
     "id": 4,
     "title": "",
-    "secTex": "Entrega de Certificados de la Jornada de Capacitación y Entrenamiento en Socorrismo y Salvataje Acuático👏💪",
+    "secTex": "Nuestros Niños Exploradores, participaron de una charla abierta con un invitado especial un Veterano de Guerra de Malvinas el Sr.Juan Braviz, vecino de nuestra localidad en el marco del 2 de abril, día del Veterano de la Guerra de Malvinas.🇦🇷🤍",
     "image": "/img/portfolio/metro/4.png",
-    "slug": "/project-details2/project-details2-dark"
+    "slug": "/project-details2/project-details2-dark",
+    "link": "https://www.instagram.com/p/CqiXPbvO94G/"
   },
   {
     "id": 5,
     "title": "",
-    "secTex": "Entrega de Certificados de la Jornada de Capacitación y Entrenamiento en Socorrismo y Salvataje Acuático👏💪",
+    "secTex": "Se hizo entrega de Semillas Pro Huerta🌱a los vecinos 👥️ se seguirá entregando 💪",
     "image": "/img/portfolio/metro/5.png",
-    "slug": "/project-details2/project-details2-dark"
-  },
-  {
-    "id": 6,
-    "title": "Sábado",
-    "secTex": "Entrega de un botiquín de primeros auxilios para Los Niños Exploradores 👨‍🌾 día de distintas actividades y Cine",
-    "image": "/img/portfolio/metro/6.png",
-    "slug": "/project-details2/project-details2-dark"
-  },
-  {
-    "id": 7,
-    "title": "Feria de la Familia",
-    "secTex": "GRACIAS A TODOS LOS ARTISTAS 🙌 Artesanos, y al público por acompañar 😊🥳",
-    "image": "/img/portfolio/metro/7.png",
-    "slug": "/project-details2/project-details2-dark"
+    "slug": "/project-details2/project-details2-dark",
+    "link": "https://www.instagram.com/p/CqLhybjOEcL/"
   }
 ]

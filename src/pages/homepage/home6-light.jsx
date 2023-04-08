@@ -42,6 +42,20 @@ const Homepage1 = () => {
       <NavbarArch navbarRef={navbarRef} theme="themeD" />
       <Video2 />
       <AboutUs />
+      <div className="container">
+        <div className="mb-50">
+          <h3
+            className="fw-600 text-u ls1 mb-30 "
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              color: "rgb(239, 0, 254)",
+            }}
+          >
+            Instagram
+          </h3>
+        </div>
+      </div>
       <Works />
       <ContactArch />
       <Footer />

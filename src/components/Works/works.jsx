@@ -82,8 +82,10 @@ const Works = () => {
                           }}
                         />
                         <div className="cont">
-                          <h6 className="color-font">{item.title}</h6>
-                          <h4>{item.secTex}</h4>
+                          <a href={item.link} target="_blank" rel="noreferrer">
+                            <h6 className="color-font">{item.title}</h6>
+                            <h4>{item.secTex}</h4>
+                          </a>
                         </div>
                       </div>
                     </SwiperSlide>
@@ -94,7 +96,12 @@ const Works = () => {
                 ref={navigationNextRef}
                 className="swiper-button-next swiper-nav-ctrl simp-next cursor-pointer"
               >
-                <span className="simple-btn right">Siguiente</span>
+                <span
+                  className="simple-btn right"
+                  style={{ marginRight: "20px" }}
+                >
+                  Siguiente
+                </span>
               </div>
               <div
                 ref={navigationPrevRef}
