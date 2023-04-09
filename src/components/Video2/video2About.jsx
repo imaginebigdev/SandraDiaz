@@ -17,7 +17,7 @@ const Video2About = () => {
           channel="youtube"
           autoplay
           isOpen={isOpen}
-          videoId="4fjRze6XvXM"
+          videoId="J9l0G1z14lc"
           onClose={() => setOpen(false)}
         />
       )}

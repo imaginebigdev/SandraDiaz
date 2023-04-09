@@ -2,10 +2,11 @@ import React from "react";
 import Footer from "../../components/Footer/footer";
 import LightTheme from "../../layouts/Light";
 import AboutUs from "../../components/About-us/about-us";
-import Video2 from "../../components/Video2/video2";
 import ContactArch from "../../components/Contact-arch/contact-arch";
 import NavbarArch from "../../components/Navbar-arch/navbar-arch";
 import Works from "../../components/Works/works";
+import IntroWithSlider from "../../components/Intro-with-slider/intro-with-slider";
+import AboutUs2 from "../../components/About-us/about-us2";
 
 const Homepage1 = () => {
   const fixedSlider = React.useRef(null);
@@ -22,7 +23,8 @@ const Homepage1 = () => {
         MainContent.current.style.marginTop = slidHeight + "px";
       }
     }, 1000);
-    var navbar = navbarRef.current;
+    var navbar = navbarRef.current,
+      logo = logoRef.current;
     if (window.pageYOffset > 300) {
       navbar.classList.add("nav-scroll");
     } else {
@@ -40,25 +42,27 @@ const Homepage1 = () => {
   return (
     <LightTheme>
       <NavbarArch navbarRef={navbarRef} theme="themeD" />
-      <Video2 />
-      <AboutUs />
-      <div className="container">
-        <div className="mb-50">
-          <h3
-            className="fw-600 text-u ls1 mb-30 "
-            style={{
-              display: "flex",
-              justifyContent: "center",
-              color: "rgb(239, 0, 254)",
-            }}
-          >
-            Instagram
-          </h3>
+      <IntroWithSlider sliderRef={fixedSlider} />
+      <div ref={MainContent} className="main-content">
+        <AboutUs />
+        <div className="container">
+          <div className="mb-50">
+            <h3
+              className="fw-600 text-u ls1 mb-30 "
+              style={{
+                display: "flex",
+                justifyContent: "center",
+                color: "rgb(239, 0, 254)",
+              }}
+            >
+              Instagram
+            </h3>
+          </div>
         </div>
+        <Works />
+        <ContactArch />
+        <Footer />
       </div>
-      <Works />
-      <ContactArch />
-      <Footer />
     </LightTheme>
   );
 };

@@ -55,7 +55,11 @@ const Footer = ({ hideBGCOLOR }) => {
                 >
                   <i className="fab fa-instagram"></i>
                 </a>
-                <a href="https://www.youtube.com/@SandraDiazVDP">
+                <a
+                  href="https://www.youtube.com/@SandraDiazVDP"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <i className="fab fa-youtube"></i>
                 </a>
               </div>
