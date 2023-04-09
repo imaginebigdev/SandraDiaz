@@ -33,7 +33,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
             <li className="nav-item dropdown" onClick={handleDropdown}>
               <Link
                 className="nav-link"
-                to="video2"
+                to="intro"
                 spy={true}
                 smooth={true}
                 offset={50}
