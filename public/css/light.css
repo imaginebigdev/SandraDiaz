@@ -78,7 +78,7 @@ body {
 }
 
 img {
-  width: 180px;
+  width: 100%;
   height: auto;
 }
 
@@ -5212,7 +5212,7 @@ body {
 }
 
 .po-arch .filtering span.active {
-  color: #b19777;
+  color: rgb(239, 0, 254);
 }
 
 .po-arch .filtering span:after {

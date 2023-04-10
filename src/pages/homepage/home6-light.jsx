@@ -7,6 +7,7 @@ import NavbarArch from "../../components/Navbar-arch/navbar-arch";
 import Works from "../../components/Works/works";
 import IntroWithSlider from "../../components/Intro-with-slider/intro-with-slider";
 import AboutUs2 from "../../components/About-us/about-us2";
+import Projects from "../../components/Projects/Projects";
 
 const Homepage1 = () => {
   const fixedSlider = React.useRef(null);
@@ -45,6 +46,7 @@ const Homepage1 = () => {
       <IntroWithSlider sliderRef={fixedSlider} />
       <div ref={MainContent} className="main-content">
         <AboutUs />
+        <Projects />
         <div className="container">
           <div className="mb-50">
             <h3
@@ -52,6 +54,7 @@ const Homepage1 = () => {
               style={{
                 display: "flex",
                 justifyContent: "center",
+                marginTop: "1000px",
                 color: "rgb(239, 0, 254)",
               }}
             >

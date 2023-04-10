@@ -10,7 +10,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
     <nav className="navbar navbar-expand-lg" ref={navbarRef}>
       <div className="container">
         <a className="" href="/">
-          <img src={appData.lightLogo} alt="logo" />
+          <img src={appData.lightLogo} alt="logo" style={{ width: "180px" }} />
         </a>
 
         <button
@@ -30,12 +30,16 @@ const NavbarArch = ({ navbarRef, theme }) => {
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
-            <li className="nav-item dropdown" onClick={handleDropdown}>
+            <li className="nav-item dropdown">
               <Link
                 className="nav-link"
-                to="intro"
                 spy={true}
-                smooth={true}
+                onClick={() =>
+                  window.scrollTo({
+                    top: 0,
+                    behavior: "smooth",
+                  })
+                }
                 offset={50}
                 duration={500}
               >
