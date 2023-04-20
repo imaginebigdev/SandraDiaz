@@ -43,7 +43,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 offset={50}
                 duration={500}
               >
-                Inicio
+                <a>Inicio</a>
               </Link>
             </li>
 

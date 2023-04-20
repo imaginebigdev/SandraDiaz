@@ -55,7 +55,7 @@ const Homepage1 = () => {
                 display: "flex",
                 justifyContent: "center",
                 marginTop: "1000px",
-                color: "rgb(239, 0, 254)",
+                color: "#386488",
               }}
             >
               Instagram

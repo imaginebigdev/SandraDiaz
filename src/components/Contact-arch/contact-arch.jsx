@@ -76,7 +76,7 @@ const ContactArch = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h3
-                style={{ fontSize: "40px", color: "#ef00fe" }}
+                style={{ fontSize: "40px", color: "#386488" }}
                 className="wow fadeIn"
                 data-wow-delay=".3s"
               >
