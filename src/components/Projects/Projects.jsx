@@ -27,7 +27,7 @@ const Projects = () => {
             <div className="sec-head  text-center">
               <h3
                 style={{
-                  color: "rgb(239, 0, 254)",
+                  color: "#386488",
                 }}
                 className="wow fadeIn"
                 data-wow-delay=".3s"

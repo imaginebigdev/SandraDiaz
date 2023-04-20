@@ -155,13 +155,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#01c901),
+    from(#386488),
     color-stop(#00cffe),
-    to(#ef00fe)
+    to(#be1718)
   );
-  background: -webkit-linear-gradient(left, #01c901, #ef00fe);
-  background: -o-linear-gradient(left, #01c901, #ef00fe);
-  background: linear-gradient(to right, #01c901, #ef00fe);
+  background: -webkit-linear-gradient(left, #386488, #be1718);
+  background: -o-linear-gradient(left, #386488, #be1718);
+  background: linear-gradient(to right, #386488, #be1718);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1020,13 +1020,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#00af01),
-    color-stop(#c471ed),
-    to(#ef01ff)
+    from(#386488),
+    color-stop(#4b2fb2),
+    to(#be1718)
   );
-  background: -webkit-linear-gradient(left, #00af01, #c471ed, #ef01ff);
-  background: -o-linear-gradient(left, #00af01, #c471ed, #ef01ff);
-  background: linear-gradient(to right, #00af01, #c471ed, #ef01ff);
+  background: -webkit-linear-gradient(left, #386488, #be1718);
+  background: -o-linear-gradient(left, #386488, #be1718);
+  background: linear-gradient(to right, #386488, #be1718);
 }
 
 .pace.pace-inactive {
@@ -1282,7 +1282,7 @@ body {
   width: 6px;
   height: 6px;
   z-index: 10000001;
-  background-color: #ef00fe;
+  background-color: #be1718;
   -webkit-transition: width 0.3s ease-in-out, height 0.3s ease-in-out,
     margin 0.3s ease-in-out, opacity 0.3s ease-in-out;
   -o-transition: width 0.3s ease-in-out, height 0.3s ease-in-out,
@@ -1296,7 +1296,7 @@ body {
   margin-top: -40px;
   width: 80px;
   height: 80px;
-  background-color: #01c901;
+  background-color: #386488;
   opacity: 0.3;
 }
 
@@ -1305,7 +1305,7 @@ body {
   margin-top: -15px;
   width: 40px;
   height: 40px;
-  border: 1px solid #01c901;
+  border: 1px solid #386488;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 10000000;
@@ -1357,7 +1357,7 @@ body {
   line-height: 44px;
   font-size: 13px;
   font-weight: 900;
-  color: #ef00fe;
+  color: #be1718;
   left: 0;
   top: 0;
   height: 44px;
@@ -1375,7 +1375,7 @@ body {
 }
 
 .progress-wrap svg.progress-circle path {
-  stroke: #ef00fe;
+  stroke: #be1718;
   stroke-width: 4;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -1692,8 +1692,8 @@ body {
 
 .butn.light:hover {
   background: transparent;
-  border-color: #fff;
-  color: #fff;
+  border-color: #000000;
+  color: #000000;
 }
 
 .butn.dark {
@@ -1930,8 +1930,8 @@ body {
 }
 
 .nav-scroll {
-  background: #858585;
-  border-color: #5e5e5e00;
+  background: #fff;
+  border-color: rgba(172, 172, 172, 0.51);
   padding: 0;
   position: fixed;
   top: -80px;
@@ -1946,7 +1946,7 @@ body {
 }
 
 .nav-scroll .navbar-nav .nav-link {
-  color: #ffffff;
+  color: #3d3d3d;
 }
 
 .topnav {
@@ -4082,7 +4082,7 @@ body {
   right: 0;
   width: 400px;
   height: 400px;
-  background-image: url(../img/dots.png);
+
   background-repeat: repeat;
   opacity: 0.3;
   z-index: -1;
@@ -5212,7 +5212,7 @@ body {
 }
 
 .po-arch .filtering span.active {
-  color: rgb(239, 0, 254);
+  color: #be1718;
 }
 
 .po-arch .filtering span:after {
