@@ -10,15 +10,15 @@ const AboutUs = () => {
         <div className="row">
           <div className="col-lg-5 valign md-mb50">
             <div className="mb-50">
-              <h3 className="fw-600 text-u ls1 mb-30 color-font">
-                {AboutUs1Date.title}
-              </h3>
+              <img src="/img/frase.png" alt="logo" />
               <p>{AboutUs1Date.content}</p>
               <br />
               <p>{AboutUs1Date.content2}</p>
               <br />
               <p>{AboutUs1Date.content3}</p>
-            </div>  
+              <br />
+              <p>{AboutUs1Date.content4}</p>
+            </div>
           </div>
           <div className="col-lg-7 img">
             <Video2About />
