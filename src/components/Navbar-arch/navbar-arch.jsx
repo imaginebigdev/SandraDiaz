@@ -33,6 +33,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
             <li className="nav-item dropdown">
               <Link
                 className="nav-link"
+                to=""
                 spy={true}
                 onClick={() =>
                   window.scrollTo({

@@ -50,7 +50,7 @@ const Homepage1 = () => {
         <div className="container">
           <div className="mb-50">
             <h3
-              className="fw-600 text-u ls1 mb-30 "
+              className="fw-600 mb-30"
               style={{
                 display: "flex",
                 justifyContent: "center",
